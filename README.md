@@ -5,7 +5,9 @@ Non-profit organizations can register themselves on the web application and add 
 
 And donors and volunteers can access the mobile application to find a list with all the tasks available and choose one of these problems and contact the organization to help.    
 
-<img src="./screens.png" alt="application screens" width="50%"/>
+<p align="center">
+	<img src="./screens.png" alt="application screens" width="50%"/>
+</p>
 
 ## noteworthy stuff that I learned
 ### backend
